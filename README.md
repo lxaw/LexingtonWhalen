@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 ![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexingtonWhalen&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexingtonWhalen&layout=compact&theme=tokyonight)
-
+<br>
+<img src="https://media.giphy.com/media/w5hxjeMfKLf0Y/giphy.gif" height="100">
